@@ -1,6 +1,6 @@
 {
-  "name": "grid",
-  "description": "WebXR Grid",
+  "name": "meteor",
+  "description": "WebXR Meteors",
   "xr_type": "webxr-site@0.0.1",
   "start_url": "index.html"
 }
